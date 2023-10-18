@@ -1,0 +1,143 @@
+@media(max-width:575px) {
+    
+        .intro{
+            text-align: center;
+        }
+      
+        header h5 {
+            font-size: 12px;
+        }
+        header h2 {
+            font-size: 18px;
+        }
+        header p {
+            font-size: 14px;
+            padding: 10px 20px;
+        }
+        header .now {
+            padding: 5px 10px;
+            margin-bottom: 40px;
+        }
+        header button {
+            
+            padding: 5px 10px;
+        }
+        .nav-link:hover {
+            display: inline-block;
+        }
+        .nav-link {
+           
+            display: inline-block;
+        }
+        .ms-auto {
+            text-align: center;
+        }
+        header .pic {
+            display: none;
+        }
+        .pic2{
+            display: inherit;
+            
+        }
+        .pic2 img {
+            width: 200px;
+            text-align: center;
+            margin: auto;
+            margin-top: 30px;
+        }
+        .text h6 {
+            font-size: 11px;
+        }
+        .body .text h2 {
+            font-size: 20px;
+        }
+        .dot span{
+            display: none;
+        }
+        .features {
+            margin-top: 0px;
+        }
+        .features i {
+            margin-left: -10px;
+            font-size: 15px;
+            line-height: 40px;
+            height: 40px;
+            width: 40px;
+            margin-top: 0;
+        }
+        .features p {
+            padding: 0px 32px;
+        }
+        .features p {
+            padding: 0px 32px;
+        }
+        .img{
+            text-align: center;
+        }
+        .img img{
+            width: 250px!important;
+        }
+        .test {
+            margin-top: 50px;
+        }
+        .test h5 {
+            font-size: 11px;
+            padding-top: 30px;
+        }
+        .test h3 {
+            font-size: 20px;
+        }
+
+        .dip{
+            text-align: center;
+        }
+        .anik span{
+            margin-left: 45%;
+        }
+        .test p {
+            font-size: 14px;
+            padding: 12px 20px 20px;
+        }
+        .con i{
+            display: none;
+        }
+        .test ul li {
+            justify-content: center;
+            margin-left: -17px;
+            font-size: 15px;
+            margin-top: -10px;
+        }
+        .super h6 {
+            padding-top: 50px;
+            font-size: 11px;
+            text-align: center;
+        }
+        .super h3 {
+            margin-bottom: 35px;
+            font-size: 18px;
+            text-align: center;
+        }
+        .do span{
+            margin-left: 42%;
+        }
+       
+        .super p {
+            font-size: 15px;
+            text-align: center;
+            margin-top: -25px;
+        }
+        .super img {
+            width: 200px;
+            margin-left: 30%;
+
+        }
+
+
+
+
+
+
+
+
+
+  }
